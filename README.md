@@ -24,5 +24,8 @@ III. Feature engineering
    3. Encode categorical features
       1. Label encoder
       2. One hot encoding
+   4. Data normalization
+   5. Feature selection
+   6. PCA
          
 IV. Prepare data for training and prediction
